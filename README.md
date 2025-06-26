@@ -67,6 +67,10 @@ Performance was acceptable across all target parameters, demonstrating the model
 - **Focus Area**: Artificial Intelligence and Green Technology
 
 ---
+## Drive Link
+- [model.pkl](https://drive.google.com/file/d/1laQLEQIIHYLRoxZ7hUPQMjF-ZY2e0wlf/view)
+
+---
 
 ## 🚀 Future Scope
 
